@@ -2,7 +2,7 @@
 
 A full-stack blogging platform built with **React.js (Vite)** on the frontend and **Express.js** on the backend. Blog-Nabil enables users to read, write, edit, and manage blog posts with secure authentication and rich content formatting.
 
-![Blog-Nabil Screenshot](./screenshot.png)
+![Blog-Nabil Screenshot]([./screenshot.png](https://github.com/NabilLamb/Blog-Nabil/blob/41245c1ee76e82b8eed2b62f99006aecea946cd2/scn-blog-app.png))
 
 ---
 
